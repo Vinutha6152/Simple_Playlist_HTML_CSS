@@ -1,0 +1,504 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+   
+   
+
+}
+.rm{
+  background:linear-gradient(60deg, rgb(230, 247, 0),rgb(207, 93, 65));
+padding:10px 9%;
+padding-bottom:500px;
+
+
+}
+.rm .heading{
+    text-align:center;
+    padding-bottom:100px;
+    color:rgb(77, 147, 208);
+    text-shadow:0 5px 10px  rgba(10,6,6,6);
+    font-size:100px;
+    font-family: "Berkshire Swash", serif;
+
+}
+.rm .container{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(270px,1fr));
+    justify-content:space-around;
+    gap:300px;
+    row-gap:200px;
+    cursor: pointer;
+  
+}
+.rm .container .aa {
+    box-shadow:10px 10px 30px rgba(9, 17, 16, 0.852);
+    border-radius:30px;
+    background:rgb(198, 26, 98);
+    text-align:center;
+    padding:30px 20px;
+    height:700px;
+    width:500px;
+    
+    
+}
+.rm .container .b{
+    box-shadow:10px 10px 30px rgba(9, 17, 16, 0.852);
+    border-radius:30px;
+    background:rgb(198, 26, 98);
+    text-align:center;
+    padding:30px 20px;
+    height:700px;
+    width:500px
+}
+.rm .container .c{
+    box-shadow:10px 10px 30px rgba(9, 17, 16, 0.852);
+    border-radius:30px;
+    background:rgb(198, 26, 98);
+    text-align:center;
+    padding:30px 20px;
+    height:700px;
+    width:500px
+}
+.rm .container .d{
+    box-shadow:10px 10px 30px rgba(9, 17, 16, 0.852);
+    border-radius:30px;
+    background:rgb(198, 26, 98);
+    text-align:center;
+    padding:30px 20px;
+    height:700px;
+    width:500px
+}
+.rm .container .e{
+    box-shadow:10px 10px 30px rgba(9, 17, 16, 0.852);
+    border-radius:30px;
+    background:rgb(198, 26, 98);
+    text-align:center;
+    padding:30px 20px;
+    height:700px;
+    width:500px
+}
+.rm .container .f{
+    box-shadow:10px 10px 30px rgba(9, 17, 16, 0.852);
+    border-radius:30px;
+    background:rgb(198, 26, 98);
+    text-align:center;
+    padding:30px 20px;
+    height:700px;
+    width:500px
+}
+.rm .container .g{
+    box-shadow:10px 10px 30px rgba(9, 17, 16, 0.852);
+    border-radius:30px;
+    background:rgb(198, 26, 98);
+    text-align:center;
+    padding:30px 20px;
+    height:700px;
+    width:500px
+}
+.rm .container .h{
+    box-shadow:10px 10px 30px rgba(9, 17, 16, 0.852);
+    border-radius:30px;
+    background:rgb(198, 26, 98);
+    text-align:center;
+    padding:30px 20px;
+    height:700px;
+    width:500px
+}
+.rm .container .i{
+    box-shadow:10px 10px 30px rgba(9, 17, 16, 0.852);
+    border-radius:30px;
+    background:rgb(198, 26, 98);
+    text-align:center;
+    padding:30px 20px;
+    height:700px;
+    width:500px
+}
+.rm .container .j{
+    box-shadow:10px 10px 30px rgba(9, 17, 16, 0.852);
+    border-radius:30px;
+    background:rgb(198, 26, 98);
+    text-align:center;
+    padding:30px 20px;
+    height:700px;
+    width:500px
+}
+.rm .container .k{
+    box-shadow:10px 10px 30px rgba(9, 17, 16, 0.852);
+    border-radius:30px;
+    background:rgb(198, 26, 98);
+    text-align:center;
+    padding:30px 20px;
+    height:700px;
+    width:500px
+}
+.rm .container .l{
+    box-shadow:10px 10px 30px rgba(9, 17, 16, 0.852);
+    border-radius:30px;
+    background:rgb(198, 26, 98);
+    text-align:center;
+    padding:30px 20px;
+    height:700px;
+    width:500px
+}
+.rm .container .m{
+    box-shadow:10px 10px 30px rgba(9, 17, 16, 0.852);
+    border-radius:30px;
+    background:rgb(198, 26, 98);
+    text-align:center;
+    padding:30px 20px;
+    height:700px;
+    width:500px;
+    
+}
+
+.rm .container .aa img{
+    height:410px;
+    width:400px;
+    border:7px solid black;
+    border-radius:15px;
+
+   }
+   .logo{
+    width:180px;
+    cursor:pointer;
+    border-radius:200px;
+   }
+   .nav ul{
+    list-style:none;
+    width:100%;
+    text-align:right;
+    padding-right:100px;
+    
+    
+
+  }
+nav ul li{
+    display:inline-block;
+    margin:10px 20px;
+}
+nav ul li a{
+    
+   
+    text-decoration:none;
+    font-size:37px;
+    font-family:  "Rubik Glitch", system-ui;
+    color:black;
+   
+    
+}
+nav{
+    width:100%;
+    display:flex;
+    align-content:center;
+    justify-content:flex-start;
+    padding:10px 0;
+    background:linear-gradient(45deg, rgb(170, 79, 219),rgb(234, 172, 143));
+    border:5px solid black;
+    border-radius:10px;
+}
+a:hover{
+    color:rgb(230, 227, 231);
+    text-decoration:underline;
+    
+  }
+  .rm .container .aa h1{
+    text-align:center;
+    padding:20px;
+    font-family: "Caveat", cursive;
+    font-size:40px;
+  }
+  .rm .container .aa audio{
+   
+
+width:400px;
+margin:30px;
+}
+audio::-webkit-media-controls-panel{
+    background-color: rgb(77, 147, 208);
+    
+}
+audio::-webkit-media-controls-play-button{
+    background-color: rgb(144, 99, 138);
+    border-radius:50%
+}
+
+.rm .container .b img{
+    height:410px;
+    width:400px;
+    border:7px solid black;
+    border-radius:15px;
+
+   }
+
+   .rm .container .b h1{
+    text-align:center;
+    padding:20px;
+    font-family: "Caveat", cursive;
+    font-size:40px;
+  }
+  .rm .container .b audio{
+   
+
+    width:400px;
+    margin:30px;
+    }
+
+    .rm .container .c img{
+        height:410px;
+        width:400px;
+        border:7px solid black;
+        border-radius:15px;
+    
+       }
+    
+       .rm .container .c h1{
+        text-align:center;
+        padding:20px;
+        font-family: "Caveat", cursive;
+        font-size:40px;
+      }
+      .rm .container .c audio{
+       
+    
+        width:400px;
+        margin:30px;
+        }
+
+        .rm .container .d img{
+            height:410px;
+            width:400px;
+            border:7px solid black;
+            border-radius:15px;
+        
+           }
+        
+           .rm .container .d h1{
+            text-align:center;
+            padding:20px;
+            font-family: "Caveat", cursive;
+            font-size:40px;
+          }
+          .rm .container .d audio{
+           
+        
+            width:400px;
+            margin:30px;
+            }
+            .rm .container .e img{
+                height:410px;
+                width:400px;
+                border:7px solid black;
+                border-radius:15px;
+            
+               }
+            
+               .rm .container .e h1{
+                text-align:center;
+                padding:20px;
+                font-family: "Caveat", cursive;
+                font-size:40px;
+              }
+              .rm .container .e audio{
+               
+            
+                width:400px;
+                margin:30px;
+                }
+
+                .rm .container .f img{
+                    height:410px;
+                    width:400px;
+                    border:7px solid black;
+                    border-radius:15px;
+                
+                   }
+                
+                   .rm .container .f h1{
+                    text-align:center;
+                    padding:20px;
+                    font-family: "Caveat", cursive;
+                    font-size:40px;
+                  }
+                  .rm .container .f audio{
+                   
+                
+                    width:400px;
+                    margin:30px;
+                    }
+
+                    .rm .container .g img{
+                        height:410px;
+                        width:400px;
+                        border:7px solid black;
+                        border-radius:15px;
+                    
+                       }
+                    
+                       .rm .container .g h1{
+                        text-align:center;
+                        padding:20px;
+                        font-family: "Caveat", cursive;
+                        font-size:40px;
+                      }
+                      .rm .container .g audio{
+                       
+                    
+                        width:400px;
+                        margin:30px;
+                        }
+
+                        .rm .container .h img{
+                            height:410px;
+                            width:400px;
+                            border:7px solid black;
+                            border-radius:15px;
+                        
+                           }
+                        
+                           .rm .container .h h1{
+                            text-align:center;
+                            padding:20px;
+                            font-family: "Caveat", cursive;
+                            font-size:40px;
+                          }
+                          .rm .container .h audio{
+                           
+                        
+                            width:400px;
+                            margin:30px;
+                            }         
+                            
+                            .rm .container .i img{
+                                height:410px;
+                                width:400px;
+                                border:7px solid black;
+                                border-radius:15px;
+                            
+                               }
+                            
+                               .rm .container .i h1{
+                                text-align:center;
+                                padding:20px;
+                                font-family: "Caveat", cursive;
+                                font-size:40px;
+                              }
+                              .rm .container .i audio{
+                               
+                            
+                                width:400px;
+                                margin:30px;
+                                }
+
+                                .rm .container .j img{
+                                    height:410px;
+                                    width:400px;
+                                    border:7px solid black;
+                                    border-radius:15px;
+                                
+                                   }
+                                
+                                   .rm .container .j h1{
+                                    text-align:center;
+                                    padding:20px;
+                                    font-family: "Caveat", cursive;
+                                    font-size:40px;
+                                  }
+                                  .rm .container .j audio{
+                                   
+                                
+                                    width:400px;
+                                    margin:30px;
+                                    }
+
+                                    .rm .container .k img{
+                                        height:410px;
+                                        width:400px;
+                                        border:7px solid black;
+                                        border-radius:15px;
+                                    
+                                       }
+                                    
+                                       .rm .container .k h1{
+                                        text-align:center;
+                                        padding:20px;
+                                        font-family: "Caveat", cursive;
+                                        font-size:40px;
+                                      }
+                                      .rm .container .k audio{
+                                       
+                                    
+                                        width:400px;
+                                        margin:30px;
+                                        }
+
+                                        .rm .container .l img{
+                                            height:410px;
+                                            width:400px;
+                                            border:7px solid black;
+                                            border-radius:15px;
+                                        
+                                           }
+                                        
+                                           .rm .container .l h1{
+                                            text-align:center;
+                                            padding:20px;
+                                            font-family: "Caveat", cursive;
+                                            font-size:40px;
+                                          }
+                                          .rm .container .l audio{
+                                           
+                                        
+                                            width:400px;
+                                            margin:30px;
+                                            }
+
+                                            .rm .container .aa:hover{
+                                              background-color:rgb(101, 26, 142);
+                                            transform:scale(1.08);
+                                            }
+                                            .rm .container .b:hover{
+                                              background-color:rgb(101, 26, 142);
+                                            transform:scale(1.08);
+                                            }
+                                            .rm .container .c:hover{
+                                              background-color:rgb(101, 26, 142);
+                                            transform:scale(1.08);
+                                            }
+                                            .rm .container .d:hover{
+                                              background-color:rgb(101, 26, 142);
+                                            transform:scale(1.08);
+                                            }
+                                            .rm .container .e:hover{
+                                              background-color:rgb(101, 26, 142);
+                                            transform:scale(1.08);
+                                            }
+                                            .rm .container .f:hover{
+                                              background-color:rgb(101, 26, 142);
+                                            transform:scale(1.08);
+                                            }
+                                            .rm .container .g:hover{
+                                              background-color:rgb(101, 26, 142);
+                                            transform:scale(1.08);
+                                            }
+                                            .rm .container .h:hover{
+                                              background-color:rgb(101, 26, 142);
+                                            transform:scale(1.08);
+                                            }
+                                            .rm .container .i:hover{
+                                              background-color:rgb(101, 26, 142);
+                                            transform:scale(1.08);
+                                            }
+                                            .rm .container .j:hover{
+                                              background-color:rgb(101, 26, 142);
+                                            transform:scale(1.08);
+                                            }
+                                            .rm .container .k:hover{
+                                              background-color:rgb(101, 26, 142);
+                                            transform:scale(1.08);
+                                            }
+                                            .rm .container .l:hover{
+                                              background-color:rgb(101, 26, 142);
+                                            transform:scale(1.08);
+                                            }
+       

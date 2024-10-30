@@ -1,0 +1,93 @@
+
+body{
+    width:100%;
+    min-height:100vh;
+    background:url(./bts2_img_bg.jpg)no-repeat;
+    background-size:cover;
+    background-position:center;
+  }
+  nav{
+    width:100%;
+    display:flex;
+    align-content:center;
+    justify-content:flex-start;
+    padding:10px 0;
+    
+    
+   
+  }
+  .logo{
+    width:180px;
+    cursor:pointer;
+    border-radius:200px;
+    
+
+  }
+  .nav ul{
+    list-style:none;
+    width:100%;
+    text-align:right;
+    padding-right:100px;
+    
+    
+
+  }
+nav ul li{
+    display:inline-block;
+    margin:10px 20px;
+}
+nav ul li a{
+    
+   
+    text-decoration:none;
+    font-size:37px;
+    font-family:  "Rubik Glitch", system-ui;
+    color:black;
+   
+    
+}
+.section{
+  display:flex;
+  justify-content: flex-start;
+  padding:60px;
+
+}
+
+.text{
+  font-size: 30px;
+}
+.text h1{
+  font-family: "Honk", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+ 
+   
+  font-size:150px;
+  padding:200px;
+
+  margin-left:400px;
+  margin-top:50px;
+  text-align:justify;
+ }
+a:hover{
+  color:rgb(145, 39, 167);
+  text-decoration:underline;
+  
+}
+ .para2{
+ display:flex;
+ justify-content:right;
+ padding:100px;
+ margin-right:250px;
+ margin-block:-400px;
+ font-family: "Honk", system-ui;
+ font-optical-sizing: auto;
+ font-weight: 400;
+ font-style: normal;
+
+  
+ font-size:80px;
+ 
+
+ }
